@@ -15,13 +15,6 @@ import javafx.scene.paint.Color;
  * 
  * This is a purely static component of the MVC implementation.  There is no need to instantiate
  * the class.
- *
- * <p> Copyright: Lynn Robert Carter © 2025 </p>
- *
- * @author Lynn Robert Carter
- *
- * @version 2.00	2025-07-30 Rewrite of this application for the Fall 2025 offering of CSE 360
- * and other ASU courses.
  */
 
 public class Model {

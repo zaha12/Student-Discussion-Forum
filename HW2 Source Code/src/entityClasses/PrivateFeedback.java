@@ -8,10 +8,6 @@ import java.time.LocalDateTime;
  * <p> Description: Represents a private feedback message sent by a staff member to a student
  * or another staff member. Private feedback is linked to a specific post or reply and is
  * only visible to the sender and the recipient — never shown in the public discussion feed.</p>
- *
- *  
- *
- * @version 1.00    2025-04-20 Initial version
  */
 public class PrivateFeedback {
 	private int id;

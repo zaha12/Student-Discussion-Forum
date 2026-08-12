@@ -22,13 +22,6 @@ import javafx.scene.Scene;
  * the system to specify an Admin Username and Password when there is no database for the
  * application.  This avoids the common weakness practice of hard coding credentials into the 
  * application.</p>
- * 
- * <p> Copyright: Lynn Robert Carter © 2025 </p>
- * 
- * @author Lynn Robert Carter
- * 
- * @version 1.00		2025-08-15 Initial version
- *  
  */
 
 public class ViewFirstAdmin {

@@ -18,17 +18,6 @@ import userNameRecognizerTestbed.UserNameRecognizer;
  * 
  * The controller deals with the user pressing the "User Step" button widget being click.  If also
  * supports the user click on the "Quit" button widget.
- * 
- * The class has been written assuming that the View or the Model are the only class methods that
- * can invoke these methods.  This is why each has been declared at "protected".  Do not change any
- * of these methods to public.</p>
- * 
- * <p> Copyright: Lynn Robert Carter © 2025 </p>
- * 
- * @author Lynn Robert Carter
- * 
- * @version 1.00		2025-08-17 Initial version
- *  
  */
 
 public class ControllerNewAccount {

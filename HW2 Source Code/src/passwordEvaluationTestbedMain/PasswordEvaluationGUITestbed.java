@@ -8,15 +8,7 @@ import javafx.stage.Stage;
 /*******
  * <p> Title: EmailAddressTestbed Class. </p>
  * 
- * <p> Description: A JavaFX demonstration application and baseline for a sequence of projects </p>
- * 
- * <p> Copyright: Lynn Robert Carter © 2022 </p>
- * 
- * @author Lynn Robert Carter
- * 
- * @version 4.00	2017-10-16 The mainline of a JavaFX-based GUI implementation of a User 
- * 					Interface testbed
- * 
+ * <p> Description: A JavaFX demonstration application</p>
  */
 
 public class PasswordEvaluationGUITestbed extends Application {

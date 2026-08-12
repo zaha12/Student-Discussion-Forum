@@ -14,17 +14,6 @@ import javafx.scene.control.ComboBox;
  * This page has one of the more complex Controller Classes due to the fact that the changing the
  * values of widgets changes the layout of the page.  It is up to the Controller to determine what
  * to do and it involves the proper elements from View Class for this GUI page.
- * 
- * The class has been written assuming that the View or the Model are the only class methods that
- * can invoke these methods.  This is why each has been declared at "protected".  Do not change any
- * of these methods to public.</p>
- * 
- * <p> Copyright: Lynn Robert Carter © 2025 </p>
- * 
- * @author Lynn Robert Carter
- * 
- * @version 1.00		2025-08-17 Initial version
- * @version 1.01		2025-09-16 Update Javadoc documentation *  
  */
 
 public class ControllerAddRemoveRoles {

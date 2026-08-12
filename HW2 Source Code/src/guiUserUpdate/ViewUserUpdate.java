@@ -30,13 +30,6 @@ import passwordEvaluationTestbedMain.PasswordEvaluationGUITestbed;
  * 		- Preferred First Name
  * 		- Email Address
  * The page uses dialog boxes for updating these items.</p>
- * 
- * <p> Copyright: Lynn Robert Carter © 2025 </p>
- * 
- * @author Lynn Robert Carter
- * 
- * @version 1.01		2025-08-19 Initial version plus new internal documentation
- *  
  */
 
 public class ViewUserUpdate {

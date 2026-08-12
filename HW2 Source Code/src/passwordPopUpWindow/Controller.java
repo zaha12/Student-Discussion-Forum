@@ -18,13 +18,6 @@ public class Controller {
  * in the input field directly to the code in the Model to evaluate the updated input without 
  * needing to involve the controller.  When the GUI's button is pressed, that event invokes the
  * handler in this class.
- *
- * <p> Copyright: Lynn Robert Carter © 2025 </p>
- *
- * @author Lynn Robert Carter
- *
- * @version 2.00	2025-07-31 Rewrite of this application for the Fall 2025 offering of CSE 360
- * and other ASU courses.
  */
 
 	/*-********************************************************************************************

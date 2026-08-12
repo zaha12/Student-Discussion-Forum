@@ -20,13 +20,6 @@ import entityClasses.User;
  * <p> Title: GUIAddRemoveRolesPage Class. </p>
  * 
  * <p> Description: The Java/FX-based page for changing the assigned roles to users.</p>
- * 
- * <p> Copyright: Lynn Robert Carter © 2025 </p>
- * 
- * @author Lynn Robert Carter
- * 
- * @version 1.00		2025-08-20 Initial version
- *  
  */
 
 public class ViewAddRemoveRoles {

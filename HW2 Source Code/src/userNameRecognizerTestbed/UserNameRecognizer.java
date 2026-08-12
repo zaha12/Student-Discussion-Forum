@@ -16,15 +16,7 @@ public class UserNameRecognizer {
 	 *   <li>Minimum length: 4 characters</li>
 	 *   <li>Maximum length: 16 characters</li?
 	 * </ul>
-	 * </p>   
-	 * <p> Copyright: Lynn Robert Carter © 2024 </p>
-	 * 
-	 * @author Lynn Robert Carter
-	 * 
-	 * @version 1.00		2024-09-13	Initial baseline derived from the Even Recognizer
-	 * @version 1.01		2024-09-17	Correction to address UNChar coding error, improper error
-	 * 									message, and improve internal documentation
-	 * 
+	 * </p>
 	 */
 
 	/**********************************************************************************************

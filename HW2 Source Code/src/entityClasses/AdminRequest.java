@@ -27,7 +27,7 @@ public class AdminRequest {
     private Integer originalRequestId; // Link to original closed request when reopened (null if not reopened)
     private boolean isReopened;
 
-    // In-memory list of all AdminRequests (similar to Post class)
+    // In-memory list of all AdminRequests 
     private static List<AdminRequest> adminRequests = new ArrayList<>();
 
     /*******

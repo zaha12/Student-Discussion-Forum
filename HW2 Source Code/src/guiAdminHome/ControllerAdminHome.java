@@ -10,22 +10,6 @@ import entityClasses.AdminRequest;
  * 
  * <p> Description: The Java/FX-based Admin Home Page.  This class provides the controller actions
  * basic on the user's use of the JavaFX GUI widgets defined by the View class.
- * 
- * This page contains a number of buttons that have not yet been implemented.  WHen those buttons
- * are pressed, an alert pops up to tell the user that the function associated with the button has
- * not been implemented. Also, be aware that What has been implemented may not work the way the
- * final product requires and there maybe defects in this code.
- * 
- * The class has been written assuming that the View or the Model are the only class methods that
- * can invoke these methods.  This is why each has been declared at "protected".  Do not change any
- * of these methods to public.</p>
- * 
- * <p> Copyright: Lynn Robert Carter © 2025 </p>
- * 
- * @author Lynn Robert Carter
- * 
- * @version 1.00		2025-08-17 Initial version
- * @version 1.01		2025-09-16 Update Javadoc documentation *  
  */
 
 public class ControllerAdminHome {

@@ -37,15 +37,7 @@ import guiUserUpdate.ViewUserUpdate;
  * only one instance of class is instantiated and that one is properly configured for each use.  
  * 
  * Please note that this implementation is not appropriate for concurrent systems with multiple
- * users. This Baeldung article provides insight into the issues: 
- *           https://www.baeldung.com/java-singleton</p>
- * 
- * <p> Copyright: Lynn Robert Carter © 2025 </p>
- * 
- * @author Lynn Robert Carter
- * 
- * @version 1.00		2025-08-17 Initial version
- *  
+ * users.
  */
 
 public class ViewAdminHome {

@@ -25,13 +25,6 @@ import passwordEvaluationTestbedMain.PasswordEvaluationGUITestbed;
  * In this case the GUI consists of numerous widgets to show the user where to enter the password,
  * where any errors are located, and a set of requirements for a valid password and whether or not
  * they have been satisfied
- *
- * <p> Copyright: Lynn Robert Carter © 2025 </p>
- *
- * @author Lynn Robert Carter
- *
- * @version 2.00	2025-07-30 Rewrite of this application for the Fall 2025 offering of CSE 360
- * and other ASU courses.
  */
 
 public class View {

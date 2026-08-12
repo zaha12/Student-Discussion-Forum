@@ -4,14 +4,6 @@ package passwordEvaluationTestbedMain;
  * <p> Title: PasswordEvaluationTestingAutomation Class. </p>
  * 
  * <p> Description: A Java demonstration for semi-automated tests </p>
- * 
- * <p> Copyright: Lynn Robert Carter © 2022 </p>
- * 
- * @author Lynn Robert Carter
- * 
- * @version 1.00	2022-02-25 A set of semi-automated test cases
- * @version 2.00	2024-09-22 Updated for use at ASU
- * 
  */
 public class PasswordEvaluationTestingAutomation {
 	
